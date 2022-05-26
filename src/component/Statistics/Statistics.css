@@ -1,0 +1,13 @@
+.statistic{
+    display: flex;
+    justify-content: space-around;
+}
+#pir{
+    width: 500px;
+    height: 400px;
+    
+}
+#zhe{
+    width: 500px;
+    height: 400px;
+}
